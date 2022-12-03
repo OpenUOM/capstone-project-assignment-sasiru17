@@ -1,13 +1,27 @@
-# Capstone Project
+# CapstoneFrontend
 
-![GitHub contributors](https://img.shields.io/github/contributors/YasithD/capstone-project-backend)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/YasithD/capstone-project-backend/docs)
-![GitHub forks](https://img.shields.io/github/forks/YasithD/capstone-project-backend?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/YasithD/capstone-project-backend?style=social)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
-## Table of Contents
+## Development server
 
-1. [Setting up the environment](/docs/chapters/setting-up-the-environment.md).
-2. [Implementing the Backend](/docs/chapters/implementing-the-backend.md).
-3. [Implementing the Frontend](/docs/chapters/implementing-the-frontend.md).
-4. [Project tasks](/docs/chapters/project-tasks.md).
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
